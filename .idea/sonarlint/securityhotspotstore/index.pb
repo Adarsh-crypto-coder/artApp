@@ -1,0 +1,23 @@
+
+f
+6app/src/main/java/com/example/artapp/MainActivity.java,6\7\6755444e7cf3e7159d7d9bdaa36cfe739b38687c
+k
+;app/src/main/java/com/example/artapp/CopyRightActivity.java,7\c\7c0020b361cede3861d9dec68ae61c51c809931e
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+a
+1app/src/main/java/com/example/artapp/Artwork.java,7\d\7da2a172fa81e89a7bcb2265d0a4f75a964ba6a6
+i
+9app/src/main/java/com/example/artapp/ArtworkActivity.java,6\4\640515e28871e5bf850fca11c9040f1b266c4efc
+k
+;app/src/main/java/com/example/artapp/ArtworkViewHolder.java,9\6\9650bcd08203ea60fb167477e84cbaa7b1f027fb
+h
+8app/src/main/java/com/example/artapp/ArtworkAdapter.java,5\9\595799c664fa1c4ed20bc645a00c074775a4e60e
+g
+7app/src/main/java/com/example/artapp/ImageActivity.java,7\9\79a10c127243a03da86c2aa7582e8b526c1fd764
+C
+settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
+o
+?app/src/main/java/com/example/artapp/RecyclerViewAnimation.java,4\c\4ca48e0d78bde50676c5ca49a03e986cf68a5dbd

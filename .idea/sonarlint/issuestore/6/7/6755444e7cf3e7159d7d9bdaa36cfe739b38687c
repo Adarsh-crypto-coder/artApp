@@ -1,0 +1,32 @@
+
+“
+java:S1192›"ODefine a constant instead of duplicating this literal "medium_display" 3 times.(ùì¸è8öö€ú¬2J$29f73166-0e7d-4073-94bd-88d9a391e341
+
+java:S1192‚"LUse already-defined constant 'artURL' instead of duplicating its value here.(Î÷×…8öö€ú¬2J$c6474c81-a12a-4be6-899a-f0658af8d249
+Š
+java:S1192"FDefine a constant instead of duplicating this literal "title" 3 times.(„™ì¬8öö€ú¬2J$951921f2-a0b7-4035-bf26-76853fe65b89
+“
+java:S1192Ÿ"PDefine a constant instead of duplicating this literal "place_of_origin" 3 times.(Â«Üu8öö€ú¬2J$aa31f3ed-3d95-4450-8c98-ece3ac36c1a1
+
+java:S1192™"LDefine a constant instead of duplicating this literal "credit_line" 3 times.(©Æ—Ë8öö€ú¬2J$36f7987c-100b-4f9e-8784-5a43f4b298d6
+š
+java:S1192˜"QDefine a constant instead of duplicating this literal "department_title" 3 times.(Ùƒ„”ûÿÿÿÿ8øö€ú¬2J$ffa9003d-d52e-44a5-9099-9157ba2ca0fc
+
+java:S1192Y"FDefine a constant instead of duplicating this literal "limit" 3 times.(¿¾İÁÿÿÿÿÿ8øö€ú¬2J$26ae1719-4dc1-4ae1-9726-dc7b480184d4
+”
+java:S1192–"KDefine a constant instead of duplicating this literal "gallery_id" 3 times.(‰ñú÷ıÿÿÿÿ8øö€ú¬2J$5fd7c6c3-fcc2-4e67-a028-2096a1d19f02
+“
+java:S1192"ODefine a constant instead of duplicating this literal "artist_display" 3 times.(ÜáÑ˜8øö€ú¬2J$3c56283e-12b4-44af-8098-443fa989fdbe
+’
+java:S1192—"NDefine a constant instead of duplicating this literal "gallery_title" 3 times.(ˆË²Ş8øö€ú¬2J$62a2264f-25d3-42c2-90bd-00135b7057c0
+œ
+java:S1192 "SDefine a constant instead of duplicating this literal "artwork_type_title" 3 times.(íÍ Àıÿÿÿÿ8ùö€ú¬2J$72f6aaa5-383a-40d4-8921-9ff0b96368d6
+
+java:S1192œ"MDefine a constant instead of duplicating this literal "date_display" 3 times.(á­œ8ùö€ú¬2J$712e425a-d396-4f5a-832a-a76513e74caa
+
+java:S1192•"IDefine a constant instead of duplicating this literal "image_id" 3 times.(Õé€8ùö€ú¬2J$45d7403a-d15b-41ca-8ae1-72e996600ba6
+‰
+java:S1192Z"GDefine a constant instead of duplicating this literal "fields" 3 times.(µ¢.8ùö€ú¬2J$938b340e-7893-4022-85d5-50b4e904cae0
+”
+java:S1192š"KDefine a constant instead of duplicating this literal "dimensions" 3 times.(”âóÄúÿÿÿÿ8ùö€ú¬2J$3307b86a-9105-4f4a-a0e7-b193fb87f12f
+œ	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—·Â8ü‹ú¬2J$7fd01f5d-b2d2-44cc-afe8-1f4acdd78ed8
